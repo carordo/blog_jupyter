@@ -1,1 +1,1 @@
-Sitemap: https://www.carlosaordonez.com/sitemap.xml
+Sitemap: http://carlosaordonez.com/sitemap.xml
