@@ -51,7 +51,7 @@ I have been curious to use data analytics in aviation operations. I found that o
 
 <!-- wp:image {"align":"center","id":116,"sizeSlug":"large"} -->
 
-<figure class="aligncenter size-large"><img src="%7B%7B%20site.baseurl%20%7D%7D/assets/images/2020/08/Binomial-function.png" alt="Binomial function" class="wp-image-116"><br>
+<figure class="aligncenter size-large"><img src="/assets/images/2020/08/Binomial-function.png" alt="Binomial function" class="wp-image-116"><br>
 <figcaption>Binomial function</figcaption>
 </figure>
 
