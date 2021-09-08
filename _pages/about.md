@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-I am an electrical engineer,focued in leveraging data to improve business.
+I am an electrical engineer, data scientist, business focused, helping companies adopt a digital mindset. 
 
 To learn more about me, check my **[LinkedIn](https://www.linkedin.com/in/carlosaordonez/)**.
 
