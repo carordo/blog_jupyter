@@ -34,8 +34,8 @@ meta:
   _thumbnail_id: '158'
   _yoast_wpseo_content_score: '30'
 author:
-  login: user
-  email: user@example.com
+  login: 
+  email: 
   display_name: user
   first_name: Carlos
   last_name: Ordonez
@@ -77,7 +77,7 @@ Let's assume the case of&nbsp; **Embraer 175** &nbsp;flying&nbsp; **Miami to Cle
 
 <!-- wp:image {"align":"center","id":118,"sizeSlug":"large"} -->
 
-<figure class="aligncenter size-large"><img src="/assets/images/2020/08/Embraer-175-cabin-Layout-227x400.png" alt="Embraer-175-cabin-Layout" class="wp-image-118"><br>
+<figure class="aligncenter size-large"><img src="/assets/images/2020/08/Embraer_175.png" alt="Embraer-175-cabin-Layout" class="wp-image-118"><br>
 <figcaption>Embraer-175-cabin-Layout</figcaption>
 </figure>
 
