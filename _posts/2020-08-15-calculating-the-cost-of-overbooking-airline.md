@@ -36,7 +36,7 @@ meta:
 author:
   login: 
   email: 
-  display_name: user
+  display_name: 
   first_name: Carlos
   last_name: Ordonez
 permalink: "/2020/08/15/calculating-the-cost-of-overbooking-airline/"
