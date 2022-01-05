@@ -43,7 +43,7 @@ permalink: "/2020/08/15/calculating-the-cost-of-overbooking-airline/"
 excerpt: Using Python to calculate max number of overbooking and max profit in selling
   airline tickets.
 ---
-> This article was originally posted on [Linkedin here](https://www.linkedin.com/pulse/calculating-cost-overbooking-airline-tickets-using-carlos/)prior to the pandemic Using Python to calculate the cost of overbooking an airline ticket.
+> This article was originally posted on [Linkedin here](https://www.linkedin.com/pulse/calculating-cost-overbooking-airline-tickets-using-carlos/) prior to the pandemic Using Python to calculate the cost of overbooking an airline ticket.
 > 
 > The code can be found in [GitHub here](https://github.com/carordo/Overbooking).
 
