@@ -101,7 +101,7 @@ The airline by selling additional tickets increases its revenue, but the net pro
 
 <!-- wp:image {"align":"center","id":120,"sizeSlug":"large"} -->
 
-<figure class="aligncenter size-large"><img src="/assets/images/2020/08/Overbooking-Calculation-image-750x56.jpg" alt="Overbooking Calculation image" class="wp-image-120"><br>
+<figure class="aligncenter size-large"><img src="/assets/images/2020/08/overbooking_calculation.jpg" alt="Overbooking Calculation image" class="wp-image-120"><br>
 <figcaption>Overbooking Calculation image</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ The result of this graph shows the maximum profit per additional ticket at a fix
 
 <!-- wp:image {"align":"center","id":121,"sizeSlug":"large"} -->
 
-<figure class="aligncenter size-large"><img src="/assets/images/2020/08/Table-with-Expected-profit-by-exceeding-overbooking-627x400.jpg" alt="Table with Expected profit by exceeding overbooking" class="wp-image-121"><br>
+<figure class="aligncenter size-large"><img src="/assets/images/2020/08/table_with_overbooking_tickets_sold.jpg" alt="Table with Expected profit by exceeding overbooking" class="wp-image-121"><br>
 <figcaption>Table with Expected profit by exceeding overbooking</figcaption>
 </figure>
 
@@ -137,7 +137,7 @@ The following table test different vouchers values based on the suggested overbo
 
 <!-- wp:image {"align":"center","id":122,"sizeSlug":"large"} -->
 
-<figure class="aligncenter size-large"><img src="/assets/images/2020/08/Table-with-Overbooking-tickets-sold-and-max-profit-750x283.jpg" alt="Table with Overbooking tickets sold and max profit" class="wp-image-122"><br>
+<figure class="aligncenter size-large"><img src="/assets/images/2020/08/table_with_overbooking_tickets_max_profit.jpg" alt="Table with Overbooking tickets sold and max profit" class="wp-image-122"><br>
 <figcaption>Table with Overbooking tickets sold and max profit</figcaption>
 </figure>
 
