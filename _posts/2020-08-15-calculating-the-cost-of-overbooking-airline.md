@@ -13,6 +13,7 @@ tags:
 - analytics
 - aviation
 - business
+- data
 meta:
   tumblr_carlosaordonez-blog_permalink: https://carlosaordonez-blog.tumblr.com/post/626517493069103104/calculating-the-cost-of-overbooking-airline
   tumblr_carlosaordonez-blog_id: '626517493069103104'
