@@ -34,7 +34,7 @@ meta:
   _thumbnail_id: '158'
   _yoast_wpseo_content_score: '30'
 author:
-  login: 
+  login:carordo 
   email: 
   display_name: 
   first_name: Carlos
