@@ -1,3 +1,4 @@
+This was the intial blog currently not working
 [//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
 
 ![](https://github.com/carordo/blogs_of_data/workflows/CI/badge.svg) 
